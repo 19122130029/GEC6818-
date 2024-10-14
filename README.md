@@ -99,7 +99,8 @@
 在主界面点击付款时，后台打印小票，并跳转至付款界面（如图3.7）。若账户余额充足直接扣款（如图3.8），否则账户余额不足则弹出充值提醒（如图3.9）。
 
 
-![付款界面](https://github.com/user-attachments/assets/6c5ef03e-38ee-4c75-b1c1-a9ef0ec7fdfa)
+![64741DAEFFD70130A0181C415498470F](https://github.com/user-attachments/assets/e6f03c05-9b5b-414f-9f16-b18e543181c0)
+
 
 图3.7  付款
 
